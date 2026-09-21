@@ -1,0 +1,17 @@
+E:\Code\Bai1_Chuong5\SieuThi\SieuThi\bin\Debug\net10.0-windows\SieuThi.exe
+E:\Code\Bai1_Chuong5\SieuThi\SieuThi\bin\Debug\net10.0-windows\SieuThi.deps.json
+E:\Code\Bai1_Chuong5\SieuThi\SieuThi\bin\Debug\net10.0-windows\SieuThi.runtimeconfig.json
+E:\Code\Bai1_Chuong5\SieuThi\SieuThi\bin\Debug\net10.0-windows\SieuThi.dll
+E:\Code\Bai1_Chuong5\SieuThi\SieuThi\bin\Debug\net10.0-windows\SieuThi.pdb
+E:\Code\Bai1_Chuong5\SieuThi\SieuThi\obj\Debug\net10.0-windows\SieuThi.Form1.resources
+E:\Code\Bai1_Chuong5\SieuThi\SieuThi\obj\Debug\net10.0-windows\SieuThi.csproj.GenerateResource.cache
+E:\Code\Bai1_Chuong5\SieuThi\SieuThi\obj\Debug\net10.0-windows\SieuThi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\Bai1_Chuong5\SieuThi\SieuThi\obj\Debug\net10.0-windows\SieuThi.AssemblyInfoInputs.cache
+E:\Code\Bai1_Chuong5\SieuThi\SieuThi\obj\Debug\net10.0-windows\SieuThi.AssemblyInfo.cs
+E:\Code\Bai1_Chuong5\SieuThi\SieuThi\obj\Debug\net10.0-windows\SieuThi.csproj.CoreCompileInputs.cache
+E:\Code\Bai1_Chuong5\SieuThi\SieuThi\obj\Debug\net10.0-windows\SieuThi.dll
+E:\Code\Bai1_Chuong5\SieuThi\SieuThi\obj\Debug\net10.0-windows\refint\SieuThi.dll
+E:\Code\Bai1_Chuong5\SieuThi\SieuThi\obj\Debug\net10.0-windows\SieuThi.pdb
+E:\Code\Bai1_Chuong5\SieuThi\SieuThi\obj\Debug\net10.0-windows\SieuThi.genruntimeconfig.cache
+E:\Code\Bai1_Chuong5\SieuThi\SieuThi\obj\Debug\net10.0-windows\ref\SieuThi.dll
+E:\Code\Bai1_Chuong5\SieuThi\SieuThi\obj\Debug\net10.0-windows\SieuThi.csproj.Up2Date

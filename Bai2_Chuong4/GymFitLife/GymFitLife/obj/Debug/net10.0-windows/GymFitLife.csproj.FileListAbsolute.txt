@@ -1,0 +1,17 @@
+E:\Code\Bai2_Chuong4\GymFitLife\GymFitLife\obj\Debug\net10.0-windows\GymFitLife.Form1.resources
+E:\Code\Bai2_Chuong4\GymFitLife\GymFitLife\obj\Debug\net10.0-windows\GymFitLife.csproj.GenerateResource.cache
+E:\Code\Bai2_Chuong4\GymFitLife\GymFitLife\obj\Debug\net10.0-windows\GymFitLife.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\Bai2_Chuong4\GymFitLife\GymFitLife\obj\Debug\net10.0-windows\GymFitLife.AssemblyInfoInputs.cache
+E:\Code\Bai2_Chuong4\GymFitLife\GymFitLife\obj\Debug\net10.0-windows\GymFitLife.AssemblyInfo.cs
+E:\Code\Bai2_Chuong4\GymFitLife\GymFitLife\obj\Debug\net10.0-windows\GymFitLife.csproj.CoreCompileInputs.cache
+E:\Code\Bai2_Chuong4\GymFitLife\GymFitLife\bin\Debug\net10.0-windows\GymFitLife.exe
+E:\Code\Bai2_Chuong4\GymFitLife\GymFitLife\bin\Debug\net10.0-windows\GymFitLife.deps.json
+E:\Code\Bai2_Chuong4\GymFitLife\GymFitLife\bin\Debug\net10.0-windows\GymFitLife.runtimeconfig.json
+E:\Code\Bai2_Chuong4\GymFitLife\GymFitLife\bin\Debug\net10.0-windows\GymFitLife.dll
+E:\Code\Bai2_Chuong4\GymFitLife\GymFitLife\bin\Debug\net10.0-windows\GymFitLife.pdb
+E:\Code\Bai2_Chuong4\GymFitLife\GymFitLife\obj\Debug\net10.0-windows\GymFitLife.dll
+E:\Code\Bai2_Chuong4\GymFitLife\GymFitLife\obj\Debug\net10.0-windows\refint\GymFitLife.dll
+E:\Code\Bai2_Chuong4\GymFitLife\GymFitLife\obj\Debug\net10.0-windows\GymFitLife.pdb
+E:\Code\Bai2_Chuong4\GymFitLife\GymFitLife\obj\Debug\net10.0-windows\GymFitLife.genruntimeconfig.cache
+E:\Code\Bai2_Chuong4\GymFitLife\GymFitLife\obj\Debug\net10.0-windows\ref\GymFitLife.dll
+E:\Code\Bai2_Chuong4\GymFitLife\GymFitLife\obj\Debug\net10.0-windows\GymFitLife.csproj.Up2Date

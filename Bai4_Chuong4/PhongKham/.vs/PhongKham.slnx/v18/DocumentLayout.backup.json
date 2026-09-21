@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code\\Bai4_Chuong4\\PhongKham\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56EA8D54-8637-4F6F-AEDC-6FE564A41306}|PhongKham\\PhongKham.csproj|e:\\code\\bai4_chuong4\\phongkham\\phongkham\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56EA8D54-8637-4F6F-AEDC-6FE564A41306}|PhongKham\\PhongKham.csproj|solutionrelative:phongkham\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56EA8D54-8637-4F6F-AEDC-6FE564A41306}|PhongKham\\PhongKham.csproj|e:\\code\\bai4_chuong4\\phongkham\\phongkham\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56EA8D54-8637-4F6F-AEDC-6FE564A41306}|PhongKham\\PhongKham.csproj|solutionrelative:phongkham\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56EA8D54-8637-4F6F-AEDC-6FE564A41306}|PhongKham\\PhongKham.csproj|e:\\code\\bai4_chuong4\\phongkham\\phongkham\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56EA8D54-8637-4F6F-AEDC-6FE564A41306}|PhongKham\\PhongKham.csproj|solutionrelative:phongkham\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56EA8D54-8637-4F6F-AEDC-6FE564A41306}|PhongKham\\PhongKham.csproj|e:\\code\\bai4_chuong4\\phongkham\\phongkham\\frmlichhen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56EA8D54-8637-4F6F-AEDC-6FE564A41306}|PhongKham\\PhongKham.csproj|solutionrelative:phongkham\\frmlichhen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56EA8D54-8637-4F6F-AEDC-6FE564A41306}|PhongKham\\PhongKham.csproj|e:\\code\\bai4_chuong4\\phongkham\\phongkham\\frmbenhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56EA8D54-8637-4F6F-AEDC-6FE564A41306}|PhongKham\\PhongKham.csproj|solutionrelative:phongkham\\frmbenhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56EA8D54-8637-4F6F-AEDC-6FE564A41306}|PhongKham\\PhongKham.csproj|e:\\code\\bai4_chuong4\\phongkham\\phongkham\\frmbenhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56EA8D54-8637-4F6F-AEDC-6FE564A41306}|PhongKham\\PhongKham.csproj|solutionrelative:phongkham\\frmbenhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56EA8D54-8637-4F6F-AEDC-6FE564A41306}|PhongKham\\PhongKham.csproj|e:\\code\\bai4_chuong4\\phongkham\\phongkham\\frmlichhen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56EA8D54-8637-4F6F-AEDC-6FE564A41306}|PhongKham\\PhongKham.csproj|solutionrelative:phongkham\\frmlichhen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\Code\\Bai4_Chuong4\\PhongKham\\PhongKham\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "PhongKham\\Form1.Designer.cs",
+              "ToolTip": "E:\\Code\\Bai4_Chuong4\\PhongKham\\PhongKham\\Form1.Designer.cs",
+              "RelativeToolTip": "PhongKham\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T03:05:20.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmLichHen.cs [Design]",
+              "DocumentMoniker": "E:\\Code\\Bai4_Chuong4\\PhongKham\\PhongKham\\frmLichHen.cs",
+              "RelativeDocumentMoniker": "PhongKham\\frmLichHen.cs",
+              "ToolTip": "E:\\Code\\Bai4_Chuong4\\PhongKham\\PhongKham\\frmLichHen.cs [Design]",
+              "RelativeToolTip": "PhongKham\\frmLichHen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T03:00:32.776Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Code\\Bai4_Chuong4\\PhongKham\\PhongKham\\Form1.cs",
+              "RelativeDocumentMoniker": "PhongKham\\Form1.cs",
+              "ToolTip": "E:\\Code\\Bai4_Chuong4\\PhongKham\\PhongKham\\Form1.cs",
+              "RelativeToolTip": "PhongKham\\Form1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAnwA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T02:49:17.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Code\\Bai4_Chuong4\\PhongKham\\PhongKham\\Form1.cs",
+              "RelativeDocumentMoniker": "PhongKham\\Form1.cs",
+              "ToolTip": "E:\\Code\\Bai4_Chuong4\\PhongKham\\PhongKham\\Form1.cs [Design]",
+              "RelativeToolTip": "PhongKham\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T02:47:21.026Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmBenhNhan.cs",
+              "DocumentMoniker": "E:\\Code\\Bai4_Chuong4\\PhongKham\\PhongKham\\frmBenhNhan.cs",
+              "RelativeDocumentMoniker": "PhongKham\\frmBenhNhan.cs",
+              "ToolTip": "E:\\Code\\Bai4_Chuong4\\PhongKham\\PhongKham\\frmBenhNhan.cs",
+              "RelativeToolTip": "PhongKham\\frmBenhNhan.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAArwCIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T02:53:35.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmBenhNhan.cs [Design]",
+              "DocumentMoniker": "E:\\Code\\Bai4_Chuong4\\PhongKham\\PhongKham\\frmBenhNhan.cs",
+              "RelativeDocumentMoniker": "PhongKham\\frmBenhNhan.cs",
+              "ToolTip": "E:\\Code\\Bai4_Chuong4\\PhongKham\\PhongKham\\frmBenhNhan.cs [Design]",
+              "RelativeToolTip": "PhongKham\\frmBenhNhan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T02:51:19.424Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmLichHen.cs",
+              "DocumentMoniker": "E:\\Code\\Bai4_Chuong4\\PhongKham\\PhongKham\\frmLichHen.cs",
+              "RelativeDocumentMoniker": "PhongKham\\frmLichHen.cs",
+              "ToolTip": "E:\\Code\\Bai4_Chuong4\\PhongKham\\PhongKham\\frmLichHen.cs",
+              "RelativeToolTip": "PhongKham\\frmLichHen.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAArwBkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T03:03:17.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

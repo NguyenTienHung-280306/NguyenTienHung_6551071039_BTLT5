@@ -1,0 +1,18 @@
+E:\Code\Bai3_Chuong4\to-do list\to-do list\obj\Debug\net10.0-windows\to_do_list.Form1.resources
+E:\Code\Bai3_Chuong4\to-do list\to-do list\obj\Debug\net10.0-windows\to-do list.csproj.GenerateResource.cache
+E:\Code\Bai3_Chuong4\to-do list\to-do list\obj\Debug\net10.0-windows\to-do list.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\Bai3_Chuong4\to-do list\to-do list\obj\Debug\net10.0-windows\to-do list.AssemblyInfoInputs.cache
+E:\Code\Bai3_Chuong4\to-do list\to-do list\obj\Debug\net10.0-windows\to-do list.AssemblyInfo.cs
+E:\Code\Bai3_Chuong4\to-do list\to-do list\obj\Debug\net10.0-windows\to-do list.csproj.CoreCompileInputs.cache
+E:\Code\Bai3_Chuong4\to-do list\to-do list\bin\Debug\net10.0-windows\to-do list.exe
+E:\Code\Bai3_Chuong4\to-do list\to-do list\bin\Debug\net10.0-windows\to-do list.deps.json
+E:\Code\Bai3_Chuong4\to-do list\to-do list\bin\Debug\net10.0-windows\to-do list.runtimeconfig.json
+E:\Code\Bai3_Chuong4\to-do list\to-do list\bin\Debug\net10.0-windows\to-do list.dll
+E:\Code\Bai3_Chuong4\to-do list\to-do list\bin\Debug\net10.0-windows\to-do list.pdb
+E:\Code\Bai3_Chuong4\to-do list\to-do list\obj\Debug\net10.0-windows\to-do list.dll
+E:\Code\Bai3_Chuong4\to-do list\to-do list\obj\Debug\net10.0-windows\refint\to-do list.dll
+E:\Code\Bai3_Chuong4\to-do list\to-do list\obj\Debug\net10.0-windows\to-do list.pdb
+E:\Code\Bai3_Chuong4\to-do list\to-do list\obj\Debug\net10.0-windows\to-do list.genruntimeconfig.cache
+E:\Code\Bai3_Chuong4\to-do list\to-do list\obj\Debug\net10.0-windows\ref\to-do list.dll
+E:\Code\Bai3_Chuong4\to-do list\to-do list\obj\Debug\net10.0-windows\to-do list.csproj.Up2Date
+E:\Code\Bai3_Chuong4\to-do list\to-do list\obj\Debug\net10.0-windows\to_do_list.Properties.Resources.resources

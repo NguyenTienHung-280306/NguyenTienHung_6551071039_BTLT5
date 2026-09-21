@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code\\Bai2_Chuong5\\BangVeMini\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46253D09-3B53-4011-8A5D-05D96E238891}|BangVeMini\\BangVeMini.csproj|e:\\code\\bai2_chuong5\\bangvemini\\bangvemini\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46253D09-3B53-4011-8A5D-05D96E238891}|BangVeMini\\BangVeMini.csproj|solutionrelative:bangvemini\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46253D09-3B53-4011-8A5D-05D96E238891}|BangVeMini\\BangVeMini.csproj|e:\\code\\bai2_chuong5\\bangvemini\\bangvemini\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46253D09-3B53-4011-8A5D-05D96E238891}|BangVeMini\\BangVeMini.csproj|solutionrelative:bangvemini\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Code\\Bai2_Chuong5\\BangVeMini\\BangVeMini\\Form1.cs",
+              "RelativeDocumentMoniker": "BangVeMini\\Form1.cs",
+              "ToolTip": "E:\\Code\\Bai2_Chuong5\\BangVeMini\\BangVeMini\\Form1.cs*",
+              "RelativeToolTip": "BangVeMini\\Form1.cs*",
+              "ViewState": "AgIAADcAAAAAAAAAAAAvwEcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T03:32:21.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Code\\Bai2_Chuong5\\BangVeMini\\BangVeMini\\Form1.cs",
+              "RelativeDocumentMoniker": "BangVeMini\\Form1.cs",
+              "ToolTip": "E:\\Code\\Bai2_Chuong5\\BangVeMini\\BangVeMini\\Form1.cs [Design]*",
+              "RelativeToolTip": "BangVeMini\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T03:29:15.921Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

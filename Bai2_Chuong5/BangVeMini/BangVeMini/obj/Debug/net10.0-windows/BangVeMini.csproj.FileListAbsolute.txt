@@ -1,0 +1,17 @@
+E:\Code\Bai2_Chuong5\BangVeMini\BangVeMini\bin\Debug\net10.0-windows\BangVeMini.exe
+E:\Code\Bai2_Chuong5\BangVeMini\BangVeMini\bin\Debug\net10.0-windows\BangVeMini.deps.json
+E:\Code\Bai2_Chuong5\BangVeMini\BangVeMini\bin\Debug\net10.0-windows\BangVeMini.runtimeconfig.json
+E:\Code\Bai2_Chuong5\BangVeMini\BangVeMini\bin\Debug\net10.0-windows\BangVeMini.dll
+E:\Code\Bai2_Chuong5\BangVeMini\BangVeMini\bin\Debug\net10.0-windows\BangVeMini.pdb
+E:\Code\Bai2_Chuong5\BangVeMini\BangVeMini\obj\Debug\net10.0-windows\BangVeMini.Form1.resources
+E:\Code\Bai2_Chuong5\BangVeMini\BangVeMini\obj\Debug\net10.0-windows\BangVeMini.csproj.GenerateResource.cache
+E:\Code\Bai2_Chuong5\BangVeMini\BangVeMini\obj\Debug\net10.0-windows\BangVeMini.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\Bai2_Chuong5\BangVeMini\BangVeMini\obj\Debug\net10.0-windows\BangVeMini.AssemblyInfoInputs.cache
+E:\Code\Bai2_Chuong5\BangVeMini\BangVeMini\obj\Debug\net10.0-windows\BangVeMini.AssemblyInfo.cs
+E:\Code\Bai2_Chuong5\BangVeMini\BangVeMini\obj\Debug\net10.0-windows\BangVeMini.csproj.CoreCompileInputs.cache
+E:\Code\Bai2_Chuong5\BangVeMini\BangVeMini\obj\Debug\net10.0-windows\BangVeMini.dll
+E:\Code\Bai2_Chuong5\BangVeMini\BangVeMini\obj\Debug\net10.0-windows\refint\BangVeMini.dll
+E:\Code\Bai2_Chuong5\BangVeMini\BangVeMini\obj\Debug\net10.0-windows\BangVeMini.pdb
+E:\Code\Bai2_Chuong5\BangVeMini\BangVeMini\obj\Debug\net10.0-windows\BangVeMini.genruntimeconfig.cache
+E:\Code\Bai2_Chuong5\BangVeMini\BangVeMini\obj\Debug\net10.0-windows\ref\BangVeMini.dll
+E:\Code\Bai2_Chuong5\BangVeMini\BangVeMini\obj\Debug\net10.0-windows\BangVeMini.csproj.Up2Date
